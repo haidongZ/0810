@@ -39,6 +39,7 @@
 #import "SGPageTitleView.h"
 #import "SGPageTitleViewConfigure.h"
 #import "UIView+Toast.h"
+#import "UIColor+Hex.h"
 #import "CacheFileManagerTool.h"
 #import "WMZBannerConfig.h"
 #import "WMZBannerControl.h"

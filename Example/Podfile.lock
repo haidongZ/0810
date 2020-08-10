@@ -1,5 +1,5 @@
 PODS:
-  - Demo0810 (0.1.0)
+  - Demo0810 (0.1.1)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Demo0810: affddae7880d6c841232c57d2452286965da0518
+  Demo0810: 75ed3e392465494c07c89e5b3e983ab93fdcab15
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
 PODFILE CHECKSUM: 6d224b1cb86cfebf97e97bd5e89187fe57a952b8
