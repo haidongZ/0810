@@ -1,0 +1,22 @@
+{
+  "name": "Demo0810",
+  "version": "0.1.0",
+  "summary": "A short description of Demo0810.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CH/Demo0810",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CH": "a@aa.com"
+  },
+  "source": {
+    "git": "https://github.com/CH/Demo0810.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Demo0810/Classes/**/*"
+}
